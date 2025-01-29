@@ -8,17 +8,18 @@ As an aspiring backend engineer, this is a repository to document my learning fr
 ## Blind75 Tracker
 
 ### Array
-- [ 1 Two Sum](blind75/array/1_two_sum/) ✅
-- [121. Best Time to Buy and Sell Stock](blind75/array/121_best_time_to_buy)✅
-- [57. Insert Interval](blind75/array/57_insert_interval)✅
-- [15. 3Sum](blind75/array/15_3Sum) ❓
-- [238. Product of Array Except Self](blind75/array/238_product_of_array_except_self) ✅
-- [169. Majority Element](blind75/array/169_majority_element)✅
-- [217. Contains Duplicate](blind75/array/217_contains_duplicate)✅
+- [ 1 Two Sum](blind75/src/array/1_two_sum/) ✅
+- [121. Best Time to Buy and Sell Stock](blind75/src/array/121_best_time_to_buy)✅
+- [57. Insert Interval](blind75/src/array/57_insert_interval)✅
+- [238. Product of Array Except Self](blind75/src/array/238_product_of_array_except_self) ✅
+- [169. Majority Element](blind75/src/array/169_majority_element)✅
+- [217. Contains Duplicate](blind75/src/array/217_contains_duplicate)✅
+- [11. Container with the Most Water](blind75/src/array/11_container_with_most_water)✅
 
 ## Stack
-- [150. Evaluate Reverse Polish Notation](blind75/stack/reverse_polish_notation)✅
-
+- [150. Evaluate Reverse Polish Notation](blind75/src/stack/150_reverse_polish_notation)✅
+- [20. Valid Parentheses](blind75/src/stack/20_valid_parentheses)✅
+- [232. Implement Queue using Stacks](blind75/src/stack/232_implement_queue_with_stacks)✅
 
 
 ## Useful Information (credit: david-legend's python_algorithm repo)
