@@ -20,6 +20,7 @@ As an aspiring backend engineer, this is a repository to document my learning fr
 - [150. Evaluate Reverse Polish Notation](blind75/src/stack/150_reverse_polish_notation)✅
 - [20. Valid Parentheses](blind75/src/stack/20_valid_parentheses)✅
 - [232. Implement Queue using Stacks](blind75/src/stack/232_implement_queue_with_stacks)✅
+- [739. Daily Temperatures](blind75/src/stack/739_daily_temperatures)✅
 
 
 ## Useful Information (credit: david-legend's python_algorithm repo)
