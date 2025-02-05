@@ -16,6 +16,7 @@ As an aspiring backend engineer, this is a repository to document my learning fr
 - [217. Contains Duplicate](blind75/src/array/217_contains_duplicate)✅
 - [11. Container with the Most Water](blind75/src/array/11_container_with_most_water)✅
 - [75. Sort Colors](blind75/src/array/75_sort_colors)✅
+- [39. Combination Sum](blind75/src/array/39_combination_sum)
 
 ## Stack
 - [150. Evaluate Reverse Polish Notation](blind75/src/stack/150_reverse_polish_notation)✅
