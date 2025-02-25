@@ -16,8 +16,8 @@ As an aspiring backend engineer, this is a repository to document my learning fr
 - [217. Contains Duplicate](blind75/src/array/217_contains_duplicate)✅
 - [11. Container with the Most Water](blind75/src/array/11_container_with_most_water)✅
 - [75. Sort Colors](blind75/src/array/75_sort_colors)✅
-- [39. Combination Sum](blind75/src/array/39_combination_sum)
-- [134. Gas Station](blind75/src/array/134_gas_station)
+- [39. Combination Sum](blind75/src/array/39_combination_sum)✅
+- [134. Gas Station](blind75/src/array/134_gas_station)✅
 
 ## Stack
 - [150. Evaluate Reverse Polish Notation](blind75/src/stack/150_reverse_polish_notation)✅
@@ -25,6 +25,9 @@ As an aspiring backend engineer, this is a repository to document my learning fr
 - [232. Implement Queue using Stacks](blind75/src/stack/232_implement_queue_with_stacks)✅
 - [739. Daily Temperatures](blind75/src/stack/739_daily_temperatures)✅
 
+## String
+- [125. Valid Palindrome](blind75/src/string/125_valid_palindrome)✅
+- [3. Longest Substring without Repeating Characters](blind75/src/string/3_longest_substring)✅
 
 ## Useful Information (credit: david-legend's python_algorithm repo)
 
