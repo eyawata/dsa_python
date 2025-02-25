@@ -29,6 +29,7 @@ As an aspiring backend engineer, this is a repository to document my learning fr
 - [125. Valid Palindrome](blind75/src/string/125_valid_palindrome)✅
 - [242. Valid Anagram](blind75/src/string/242_valid_anagram)✅
 - [409. Longest Palindrome](blind75/src/string/409_longest_palindrome)✅
+- [14. Longest Common Prefix](blind75/src/string/14_longest_common_prefix)✅
 - [3. Longest Substring without Repeating Characters](blind75/src/string/3_longest_substring)✅
 
 ## Useful Information (credit: david-legend's python_algorithm repo)
