@@ -32,6 +32,9 @@ As an aspiring backend engineer, this is a repository to document my learning fr
 - [14. Longest Common Prefix](blind75/src/string/14_longest_common_prefix)✅
 - [3. Longest Substring without Repeating Characters](blind75/src/string/3_longest_substring)✅
 
+## Binary Tree
+- [98. Validate Binary Search Tree](blind75/src/bst/98_validate_bst)✅
+
 ## Useful Information (credit: david-legend's python_algorithm repo)
 
 ### References
